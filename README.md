@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aneelazulfiqar
-- 👀 I’m interested in automation testing using tools like Selenium, RestAssured, appium etc.
-- 🌱 I’m currently learning RestAssured using java.
+- 👀 I’m interested in automation testing using tools like Selenium, RestAssured, Appium, PlayWright, Cypress,TestNG etc .
+- 🌱 I’m currently learning PlayWright using TypeScript.
 - 💞️ I’m looking to collaborate on everything related to my above interests.
 - 📫 How to reach me via my email, send email to aneelazulfiqa870@gmail.com or we can have a coffee someday too.
 
